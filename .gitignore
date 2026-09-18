@@ -1,0 +1,31 @@
+# Cache directories
+.cache/
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+~$*
+*.bak
+*.tmp
+
+# Large binary files that shouldn't be in git - user can remove lines if needed
+# *.dwg
+# *.dwl
+# *.dwl2
+# *.xmind
+# *.docx
+# *.pdf
+# *.zip
